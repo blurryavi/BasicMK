@@ -23,8 +23,11 @@ primero actualizen
 ahora instalar/comprobar los siguientes paquetes
 
 `sudo apt-get install git`
+
 `sudo apt-get install g++`
+
 `sudo apt-get install gcc`
+
 `sudo apt-get install gdb`
 
 Si no les pide confirmar es porque ya los tienen instalados, si no denle 'y'
