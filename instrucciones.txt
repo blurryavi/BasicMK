@@ -1,0 +1,30 @@
+              Hola, ¡bienvenid@ a Mortal Kombat!
+----------------------------------------------------------------
+Este es un juego desarrollado por estudiantes 
+de introduccion a la programacion de la PUJ a cargo de la profe 
+Maria Alejandra Hurtado.
+
+El juego consta de una imitacion del famoso juego Mortal Kombat
+por ende, tendremos funcionalidades similares
+(Si lo has jugado antes, no sera dificil ;D )
+contaremos con funcionalidades como: 
+- ataque 
+- defensa
+- super combo 
+- curacion 
+- debilitar
+una vez esto dicho, te comentare como podrias empezar
+
+Primero debes elegir una nueva partida si es la primera vez
+luego tendras la opcion de jugar con un(a) amig@ o contra la maquina
+
+Si gustas, puedes crear tu propio personaje o elegir alguno de los que
+hemos preparado para ti
+
+Una vez se hayan elegido los personajes, ¡sera momento de la batalla!
+podras atacar o defenderte y no olvides que tienes el super combo
+pero ten encuenta que tendras un tiempo limite para escoger tu jugada
+
+Se rapid@, estrategic@ y tendras la victoria asegurada; recuerda
+guardar partida para cargarla luego e imprecionar a tus amigos 
+con tu increible score
