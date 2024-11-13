@@ -51,7 +51,7 @@ Deberán clonar el repositorio con:
 
 Ahora ya tendrán la carpeta en su computador, deberán abrirla con
 
-`cd BasikMK`
+`cd BasicMK`
 
 Ya están dentro!, ahora compilen el programa
 
