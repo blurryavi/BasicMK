@@ -61,5 +61,7 @@ si no les salta ningun error es porque compiló bien, ahora ejectuenlo
 
 `./binproyecto`
 
-Y eso debería correr el programa :>
+Y debería correr :>
 ``
+
+**Cuando quieran modificar el programa** vayan al explorador de archivos, busquen la carpeta de BasikMK, y abran el archivo cpp en ella con el editor de texto que tengan, luego guarden, vuelvan a compilar y a correr el programa.
